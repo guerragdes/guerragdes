@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./guerra.png" alt="Logo">
+  <img src="./guerra.webp" alt="Logo">
 </p>
 
 Hi there! I'm João Paulo Guerra, a Brazilian student of Internet Systems and a passionate developer.
